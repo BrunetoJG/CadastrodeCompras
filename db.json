@@ -1,0 +1,53 @@
+{
+  "compras": [
+    {
+      "id": 1,
+      "name": "Pão Puma",
+      "price": 12.8,
+      "quantity": "1x",
+      "payment": "Débito"
+    },
+    {
+      "id": 2,
+      "name": "Dolly",
+      "price": 2,
+      "quantity": "1 uni.",
+      "payment": "Débito"
+    },
+    {
+      "id": 3,
+      "name": "Vinho Tinto Bravo Chileno",
+      "price": 280,
+      "quantity": "1 L",
+      "payment": "Crédito"
+    },
+    {
+      "id": 4,
+      "name": "Caviar",
+      "price": 5000,
+      "quantity": "200g",
+      "payment": "Crédito"
+    },
+    {
+      "id": 5,
+      "name": "Banana",
+      "price": 50,
+      "quantity": "1Kg",
+      "payment": "Crédito"
+    },
+    {
+      "id": 6,
+      "name": "Mussarela",
+      "price": 40,
+      "quantity": "200g",
+      "payment": "Crédito"
+    },
+    {
+      "id": 7,
+      "name": "Linguiça ",
+      "price": "100",
+      "quantity": "1Kg",
+      "payment": "Crédito"
+    }
+  ]
+}
